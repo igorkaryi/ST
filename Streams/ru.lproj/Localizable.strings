@@ -1,0 +1,60 @@
+/* 
+  Localizable.strings
+  Streams
+
+  Created by Igor Karyi on 23.04.2018.
+  Copyright © 2018 Igor Karyi. All rights reserved.
+*/
+
+//MARK: ALERTS
+"No connection to the server!" = "Нет соединения с сервером!";
+"Check your internet connection" = "Проверьте подключение к интернету";
+"Attention!" = "Внимание!";
+"Please fill in all the fields before you can continue" = "Пожалуйста, заполните все поля, прежде чем вы сможете продолжить";
+"Enter correct email before you can continue" = "Введите корректный Email прежде чем Вы сможете продолжить";
+"Today, no one has shared the news. You can be the first" = "Сегодня еще никто не поделился новостью. Вы можете быть первым";
+"Create news?" = "Создать новость?";
+"Your letter has been sent" = "Ваше письмо отправлено";
+"Your email has not been sent" = "Ваше письмо не отправлено";
+"You can share the news or block" = "Вы можете поделиться новостью или заблокировать";
+"Want to block the news?" = "Хотите заблокировать новость?";
+"Group name" = "Название группы";
+"Enter a new group name" = "Введите новое название группы";
+"A group with this name already exists!" = "Группа с таким именем уже существует!";
+"You are already participating in such a group!" = "Вы уже участвуете в такой группе!";
+"Such a group does not exist!" = "Такой группы не существует!";
+"Create a discussion?" = "Создать обсуждение?";
+"You do not have any discussions yet" = "У Вас пока нету обсуждений";
+"It will be removed from your discussion list" = "Она будет удалена из списка Ваших обсуждений";
+
+//MARK: ALERT BUTTONS
+"Retry" = "Повторить";
+"Repeat later" = "Повторить позже";
+"Send" = "Отправить";
+"Block news" = "Блокировать новость";
+"NO" = "НЕТ";
+"YES" = "ОК";
+
+//MARK: BUTTONS AND TITLES
+"Accept" = "Принять";
+"Add news" = "Добавить новость";
+"City" = "Город";
+"Themes" = "Тематика";
+"Search" = "Поиск";
+"All" = "Все";
+"Cancel" = "Отмена";
+"Left" = "Осталось";
+"symbols" = "символов";
+"A new group" = "Новая группа";
+"Name" = "Название";
+"Join the group" = "Присоединяйтесь в группу";
+"Add Members" = "Добавить участников";
+"Your name" = "Ваше имя";
+"Your email" = "Ваш email";
+"Message" = "Сообщение";
+
+"Themes" = "Тематика";
+"Location" = "Локация";
+"My discussions" = "Мои обсуждения";
+"Photo and video" = "Фото и видео";
+"Feedback" = "Обратная связь";

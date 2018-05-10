@@ -1,0 +1,90 @@
+
+/* Class = "UILabel"; text = "Сообщение"; ObjectID = "48w-fr-4Ug"; */
+"48w-fr-4Ug.text" = "Сообщение";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "6CH-Ty-XR1"; */
+"6CH-Ty-XR1.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Отмена"; ObjectID = "88N-sO-f5T"; */
+"88N-sO-f5T.normalTitle" = "Отмена";
+
+/* Class = "UILabel"; text = "Ваше имя"; ObjectID = "ARy-6E-2xy"; */
+"ARy-6E-2xy.text" = "Ваше имя";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Boq-VE-TzQ"; */
+"Boq-VE-TzQ.text" = "Label";
+
+/* Class = "UIBarButtonItem"; title = "Назад"; ObjectID = "FFN-bF-tB4"; */
+"FFN-bF-tB4.title" = "Назад";
+
+/* Class = "UILabel"; text = "Новая группа"; ObjectID = "FmQ-Gs-53b"; */
+"FmQ-Gs-53b.text" = "Новая группа";
+
+/* Class = "UIButton"; normalTitle = "Отмена"; ObjectID = "I56-vx-Fck"; */
+"I56-vx-Fck.normalTitle" = "Отмена";
+
+/* Class = "UIButton"; normalTitle = "Добавить участников"; ObjectID = "KJP-3I-z46"; */
+"KJP-3I-z46.normalTitle" = "Добавить участников";
+
+/* Class = "UILabel"; text = "Осталось 100 символов"; ObjectID = "NBJ-WQ-pxm"; */
+"NBJ-WQ-pxm.text" = "Осталось 100 символов";
+
+/* Class = "UILabel"; text = "Ваш email"; ObjectID = "NqM-C6-amn"; */
+"NqM-C6-amn.text" = "Ваш email";
+
+/* Class = "UINavigationItem"; title = " "; ObjectID = "Rfq-PK-ab7"; */
+"Rfq-PK-ab7.title" = " ";
+
+/* Class = "UINavigationItem"; title = "Мои обсуждения"; ObjectID = "UPY-1e-3FW"; */
+"UPY-1e-3FW.title" = "Мои обсуждения";
+
+/* Class = "UIButton"; normalTitle = "Город"; ObjectID = "VTp-zk-3Hs"; */
+"VTp-zk-3Hs.normalTitle" = "Город";
+
+/* Class = "UIButton"; normalTitle = "Отправить"; ObjectID = "XzA-7E-gaJ"; */
+"XzA-7E-gaJ.normalTitle" = "Отправить";
+
+/* Class = "UINavigationItem"; title = " "; ObjectID = "Ykh-dp-Dpt"; */
+"Ykh-dp-Dpt.title" = " ";
+
+/* Class = "UINavigationItem"; title = "Локация"; ObjectID = "YrS-7t-tIH"; */
+"YrS-7t-tIH.title" = "Локация";
+
+/* Class = "UIButton"; normalTitle = "Город"; ObjectID = "ajR-EI-Q34"; */
+"ajR-EI-Q34.normalTitle" = "Город";
+
+/* Class = "UINavigationItem"; title = "Обратная связь"; ObjectID = "cfl-Dw-weC"; */
+"cfl-Dw-weC.title" = "Обратная связь";
+
+/* Class = "UILabel"; text = "Осталось 100 символов"; ObjectID = "cva-Xr-PZL"; */
+"cva-Xr-PZL.text" = "Осталось 100 символов";
+
+/* Class = "UIButton"; normalTitle = "Добавить новость"; ObjectID = "dPK-tz-Yb9"; */
+"dPK-tz-Yb9.normalTitle" = "Добавить новость";
+
+/* Class = "UIButton"; normalTitle = "Добавить новость"; ObjectID = "eDR-e0-IKE"; */
+"eDR-e0-IKE.normalTitle" = "Добавить новость";
+
+/* Class = "UIButton"; normalTitle = "Тематика"; ObjectID = "fSk-wc-vg9"; */
+"fSk-wc-vg9.normalTitle" = "Тематика";
+
+/* Class = "UITextField"; placeholder = "Название"; ObjectID = "iGb-3G-LT3"; */
+"iGb-3G-LT3.placeholder" = "Название";
+
+/* Class = "UIBarButtonItem"; title = "Назад"; ObjectID = "ixU-5U-tJp"; */
+"ixU-5U-tJp.title" = "Назад";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "lgR-Xk-nWb"; */
+"lgR-Xk-nWb.text" = "Title";
+
+/* Class = "UIBarButtonItem"; title = "Назад"; ObjectID = "nmm-Iq-a4V"; */
+"nmm-Iq-a4V.title" = "Назад";
+
+/* Class = "UILabel"; text = "Осталось 100 символов"; ObjectID = "uQi-gA-sm1"; */
+"uQi-gA-sm1.text" = "Осталось 100 символов";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "vC3-4f-MUr"; */
+"vC3-4f-MUr.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "Тематика"; ObjectID = "weI-qX-My9"; */
+"weI-qX-My9.title" = "Тематика";
